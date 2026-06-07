@@ -1,0 +1,16 @@
+{
+  "name": "Sanctuary",
+  "short_name": "Sanctuary",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0c",
+  "theme_color": "#0a0a0c",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=Sanctuary&backgroundColor=0a0a0c&shape1Color=a3ffdd&shape2Color=f4b5c6",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
